@@ -17480,7 +17480,7 @@ textarea:focus {
   background-color: #5b5858;
   content: "";
   right: -21px;
-  top: 12px;
+  top: 5px;
   z-index: 9;
   -webkit-transform: rotate(115deg);
       -ms-transform: rotate(115deg);
