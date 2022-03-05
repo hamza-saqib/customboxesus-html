@@ -47,7 +47,12 @@
     max-width: 1200px;
   }
 }
-
+ /* .header-area 
+{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}  */
 .row {
   margin-right: calc(var(--bs-gutter-x) * -.6);
   margin-left: calc(var(--bs-gutter-x) * -.6);
