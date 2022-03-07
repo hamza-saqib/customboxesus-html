@@ -3263,7 +3263,7 @@ textarea:focus {
 }
 
 .header-top-ptb-3 {
-  padding: 7px 0 7px;
+  padding: 2px 0 2px;
 }
 
 .header-top-ptb-6 {
@@ -5916,8 +5916,9 @@ textarea:focus {
 }
 
 .btn-style-1 a.btn-1-orange {
-  background-color: #e44311;
+  background-color: #db0f00;
 }
+
 
 .btn-style-1 a.btn-1-orange:hover {
   background-color: #000000;
@@ -6248,7 +6249,7 @@ textarea:focus {
 }
 
 .nav-style-1.nav-style-1-orange > span:hover {
-  background-color: #e44311;
+  background-color: #db0f00;
   color: #ffffff;
 }
 
@@ -9230,7 +9231,7 @@ textarea:focus {
 }
 
 .single-product-wrap .product-content-wrap-3 h3 a:hover.orange {
-  color: #e44311;
+  color: #db0f00;
 }
 
 .single-product-wrap .product-content-wrap-3 .product-rating-wrap-2 {
@@ -9330,7 +9331,7 @@ textarea:focus {
 }
 
 .single-product-wrap .product-content-wrap-3 .product-author span a:hover.orange {
-  color: #e44311;
+  color: #db0f00;
 }
 
 .single-product-wrap .product-content-wrap-3 .single-product-sold {
@@ -9569,8 +9570,8 @@ textarea:focus {
 }
 
 .single-product-wrap .product-content-categories-2.product-content-orange h5 a:hover {
-  border-bottom: 1px solid #e44311;
-  color: #e44311;
+  border-bottom: 1px solid #db0f00;
+  color: #db0f00;
 }
 
 .single-product-wrap .product-content-categories-2.product-content-green-2 h5 a {
